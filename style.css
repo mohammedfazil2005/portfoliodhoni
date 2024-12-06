@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: outfit;
+}
+.heading-dhoni h1{
+    color: yellow;
+    font-size: 45px;
+    font-weight: bolder;
+    margin-top: 6px;
+    text-shadow: 2px 2px 2px yellow;
+}
+
+.heading-dhoni p{
+    color: yellow;
+}
+.card-box{
+    background-color: rgba(235, 211, 3, 0.966);
+}
+#contact-heading{
+    color: yellow;
+    font-size: 25px;
+    font-weight: bolder;
+    margin-top: 6px;
+  
+}
+.contact-col input,.contact-col textarea{
+    margin: 5px 0px;
+    outline: none;
+    border-radius: 6px;
+    cursor: pointer;
+    background: yellow;
+}
+.contact-col label{
+    color: yellow;
+    text-transform: uppercase;
+}
+.social-media i{
+    font-size: 20px;
+    color: yellow;
+    margin: 20px;
+}
